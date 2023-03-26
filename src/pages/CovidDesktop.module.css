@@ -1,0 +1,1112 @@
+.faceMaskIcon,
+.feverIcon,
+.hospitalBedIcon,
+.shieldIcon {
+  position: absolute;
+  top: 46px;
+  left: 206px;
+  width: 76px;
+  height: 76px;
+  object-fit: cover;
+}
+.faceMaskIcon,
+.hospitalBedIcon,
+.shieldIcon {
+  left: 523px;
+}
+.hospitalBedIcon,
+.shieldIcon {
+  left: 841px;
+}
+.hospitalBedIcon {
+  left: 1158px;
+}
+.protection,
+.security,
+.symptoms,
+.treatment {
+  position: absolute;
+  top: 140px;
+  left: 191px;
+  font-weight: 600;
+}
+.protection,
+.security,
+.treatment {
+  left: 508px;
+}
+.security,
+.treatment {
+  left: 838px;
+}
+.treatment {
+  left: 1144px;
+}
+.section2Button {
+  position: absolute;
+  top: 525px;
+  left: 0;
+}
+.avoidTouchingYour {
+  margin-block-start: 0;
+  margin-block-end: 15px;
+}
+.getInformationFrom {
+  margin: 0;
+}
+.leftSectionHeader,
+.leftSectionText {
+  position: absolute;
+  left: -2px;
+  display: inline-block;
+}
+.leftSectionText {
+  top: 91px;
+  font-weight: 600;
+  width: 555px;
+  height: 404px;
+}
+.leftSectionHeader {
+  top: 24px;
+  font-size: var(--font-size-13xl);
+  font-family: var(--font-ubuntu);
+  color: var(--color-blueviolet);
+  width: 462px;
+  height: 37px;
+}
+.downRightSection,
+.section3Left {
+  position: absolute;
+  top: 46px;
+  left: 0;
+  width: 602px;
+  height: 683px;
+  overflow: hidden;
+}
+.section3Left {
+  top: 126px;
+  left: 636px;
+  height: 696px;
+}
+.houseIcon {
+  position: absolute;
+  top: 17px;
+  left: 48px;
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+}
+.boxUp {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-blueviolet);
+  width: 209px;
+  height: 134px;
+  overflow: hidden;
+}
+.boxHeader,
+.boxText {
+  position: absolute;
+  top: 203px;
+  left: 6px;
+  display: inline-block;
+  width: 196px;
+  height: 105px;
+}
+.boxHeader {
+  top: 151px;
+  left: 37px;
+  font-size: var(--font-size-xl);
+  font-family: var(--font-ubuntu);
+  color: var(--color-blueviolet);
+  text-align: left;
+  width: 135px;
+  height: 31px;
+}
+.section3Box {
+  position: absolute;
+  top: 70px;
+  left: 39px;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-white);
+  width: 209px;
+  height: 350px;
+  overflow: hidden;
+}
+.healthCheckIcon {
+  position: absolute;
+  top: 17px;
+  left: 54px;
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+}
+.boxHeader1,
+.boxText1 {
+  position: absolute;
+  top: 203px;
+  left: 6px;
+  display: inline-block;
+  width: 196px;
+  height: 104px;
+}
+.boxHeader1 {
+  top: 151px;
+  left: 37px;
+  font-size: var(--font-size-xl);
+  font-family: var(--font-ubuntu);
+  color: var(--color-blueviolet);
+  text-align: left;
+  width: 135px;
+  height: 30px;
+}
+.section3Box1 {
+  position: absolute;
+  top: 544px;
+  left: 39px;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-white);
+  width: 209px;
+  height: 350px;
+  overflow: hidden;
+}
+.boxHeader2,
+.boxText2 {
+  position: absolute;
+  top: 156px;
+  left: 18px;
+  display: inline-block;
+  width: 172px;
+  height: 32px;
+}
+.boxText2 {
+  top: 204px;
+  left: 6px;
+  font-size: var(--font-size-mini);
+  font-family: var(--font-source-serif-4);
+  color: var(--text);
+  text-align: center;
+  width: 196px;
+  height: 108px;
+}
+.section3Box2 {
+  position: absolute;
+  top: 474px;
+  left: 355px;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-white);
+  width: 209px;
+  height: 350px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-blueviolet);
+  font-family: var(--font-ubuntu);
+}
+.maskIcon {
+  position: absolute;
+  top: 17px;
+  left: 50px;
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+}
+.boxHeader3,
+.boxText3 {
+  position: absolute;
+  top: 156px;
+  left: 51px;
+  display: inline-block;
+  width: 106px;
+  height: 29px;
+}
+.boxText3 {
+  top: 212px;
+  left: 6px;
+  font-size: var(--font-size-mini);
+  font-family: var(--font-source-serif-4);
+  color: var(--text);
+  text-align: center;
+  width: 196px;
+  height: 100px;
+}
+.section3Box3,
+.section3Right {
+  position: absolute;
+  overflow: hidden;
+}
+.section3Box3 {
+  top: 0;
+  left: 355px;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-white);
+  width: 209px;
+  height: 350px;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-blueviolet);
+  font-family: var(--font-ubuntu);
+}
+.section3Right {
+  top: 24px;
+  left: 0;
+  width: 602px;
+  height: 894px;
+  text-align: center;
+  font-size: var(--font-size-mini);
+}
+.section3,
+.section31 {
+  position: absolute;
+  top: 198px;
+  left: 100px;
+  background-color: var(--color-lavender-200);
+  width: 1238px;
+  height: 947px;
+  overflow: hidden;
+  font-family: var(--font-source-serif-4);
+}
+.section3 {
+  top: 2310px;
+  left: 0;
+  width: 1440px;
+  height: 1179px;
+  text-align: left;
+  font-size: var(--font-size-3xl);
+  color: var(--text);
+  font-family: var(--font-roboto);
+}
+.rightSectionImgIcon {
+  position: absolute;
+  top: 93px;
+  left: 0;
+  border-radius: 0 111.15px 0 111.15px;
+  width: 555px;
+  height: 419px;
+  object-fit: cover;
+}
+.downLeftSection {
+  position: absolute;
+  top: 1090px;
+  left: 738px;
+  width: 555px;
+  height: 604px;
+  overflow: hidden;
+}
+.leftSectionHeader1 {
+  position: absolute;
+  top: 24px;
+  left: -2px;
+  font-size: var(--font-size-13xl);
+  display: inline-block;
+  font-family: var(--font-ubuntu);
+  color: var(--color-blueviolet);
+  width: 327px;
+  height: 37px;
+}
+.downRightSection1 {
+  position: absolute;
+  top: 1090px;
+  left: 150px;
+  width: 555px;
+  height: 604px;
+  overflow: hidden;
+}
+.section2Button2 {
+  position: absolute;
+  top: 529px;
+  left: 0;
+}
+.covid19IsThe {
+  margin-bottom: 0;
+}
+.covid19IsTheDiseaseCaused {
+  margin: 0;
+  padding-left: var(--padding-8xl);
+}
+.leftSectionHeader2,
+.leftSectionText2 {
+  position: absolute;
+  left: 0;
+  display: inline-block;
+}
+.leftSectionText2 {
+  top: 93px;
+  font-weight: 600;
+  width: 555px;
+  height: 404px;
+}
+.leftSectionHeader2 {
+  top: 24px;
+  font-size: var(--font-size-13xl);
+  font-family: var(--font-ubuntu);
+  color: var(--color-blueviolet);
+  width: 332px;
+  height: 37px;
+}
+.upLeftSection {
+  position: absolute;
+  top: 408px;
+  left: 738px;
+  width: 555px;
+  height: 628px;
+  overflow: hidden;
+  font-size: var(--font-inherit);
+  font-family: var(--font-inherit);
+}
+.rightSectionImgIcon1 {
+  position: absolute;
+  top: 35px;
+  left: 0;
+  border-radius: 0 var(--br-81xl) 0 var(--br-81xl);
+  width: 558px;
+  height: 468px;
+  object-fit: cover;
+}
+.upRightSection {
+  position: absolute;
+  top: 420px;
+  left: 150px;
+  width: 555px;
+  height: 604px;
+  overflow: hidden;
+}
+.recoveredTitle {
+  top: 300px;
+  left: 1008px;
+  font-family: var(--font-baloo-bhai);
+  color: var(--color-dimgray-100);
+  width: 144px;
+  height: 25px;
+}
+.deathTitle,
+.recoverNum,
+.recoveredTitle {
+  position: absolute;
+  display: inline-block;
+}
+.recoverNum {
+  top: 246px;
+  left: 973px;
+  font-size: var(--font-size-26xl);
+  color: var(--color-black);
+  width: 214px;
+  height: 58px;
+}
+.deathTitle {
+  top: 300px;
+  left: 666px;
+  font-family: var(--font-baloo-bhai);
+  color: var(--color-dimgray-100);
+  width: 108px;
+  height: 25px;
+}
+.deathNum {
+  top: 246px;
+  left: 635px;
+  font-size: var(--font-size-26xl);
+  color: var(--color-black);
+  width: 171px;
+  height: 58px;
+}
+.activeNum,
+.activeTitle,
+.deathNum {
+  position: absolute;
+  display: inline-block;
+}
+.activeTitle {
+  top: 300px;
+  left: 306px;
+  font-family: var(--font-baloo-bhai);
+  color: var(--color-dimgray-100);
+  width: 108px;
+  height: 25px;
+}
+.activeNum {
+  top: 246px;
+  left: 265px;
+  font-size: var(--font-size-26xl);
+  color: var(--color-black);
+  width: 190px;
+  height: 58px;
+}
+.virusIcon {
+  position: absolute;
+  height: 3.95%;
+  width: 54.86%;
+  top: 9.44%;
+  right: 22.57%;
+  bottom: 86.62%;
+  left: 22.57%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.header2,
+.mainHeader {
+  position: absolute;
+  top: 101px;
+  left: 484px;
+  display: inline-block;
+  width: 518px;
+  height: 32px;
+}
+.mainHeader {
+  top: 55px;
+  left: 552px;
+  font-size: var(--font-size-13xl);
+  font-family: var(--font-ubuntu);
+  color: var(--color-blueviolet);
+  width: 352px;
+  height: 37px;
+}
+.section2 {
+  position: absolute;
+  top: 540px;
+  left: 0;
+  width: 1440px;
+  height: 1770px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--text);
+  font-family: var(--font-source-serif-4);
+}
+.heroButton,
+.logo {
+  position: absolute;
+  left: 130px;
+}
+.logo {
+  text-decoration: none;
+  top: 27px;
+  font-weight: 600;
+  font-family: var(--font-inter);
+  color: var(--color-black);
+  display: inline-block;
+  width: 109px;
+  height: 45px;
+}
+.heroButton {
+  top: 340px;
+}
+.home,
+.reports {
+  text-decoration: none;
+  color: inherit;
+}
+.home {
+  position: relative;
+  font-weight: 700;
+  display: inline-block;
+  width: 56px;
+  height: 22px;
+  flex-shrink: 0;
+  cursor: pointer;
+}
+.reports {
+  width: 74px;
+}
+.prevent,
+.reports,
+.symptoms1 {
+  position: relative;
+  font-weight: 700;
+  display: inline-block;
+  height: 22px;
+  flex-shrink: 0;
+  cursor: pointer;
+}
+.prevent {
+  text-decoration: none;
+  color: inherit;
+  width: 69px;
+  cursor: pointer;
+}
+.symptoms1 {
+  width: 100px;
+  cursor: pointer;
+}
+.contact,
+.nav,
+.symptoms1 {
+  text-decoration: none;
+  color: inherit;
+}
+.contact {
+  position: relative;
+  font-weight: 700;
+  display: inline-block;
+  width: 76px;
+  height: 22px;
+  flex-shrink: 0;
+  cursor: pointer;
+}
+.nav {
+  position: fixed;
+  top: 38px;
+  left: 676px;
+  width: 634px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 38px;
+  font-size: var(--font-size-lg);
+  z-index: 9999;
+}
+.heroImageIcon {
+  position: absolute;
+  top: 72px;
+  left: 775px;
+  width: 578px;
+  height: 533.13px;
+  object-fit: cover;
+}
+.heroStay {
+  top: 199px;
+  font-size: 40px;
+  color: var(--color-blueviolet);
+  width: 429px;
+  height: 67px;
+}
+.heroCovid,
+.heroStay,
+.heroText {
+  position: absolute;
+  left: 130px;
+  display: inline-block;
+}
+.heroCovid {
+  top: 170px;
+  font-size: var(--font-size-xl);
+  font-weight: 600;
+  font-family: var(--font-roboto);
+  width: 287px;
+  height: 29px;
+}
+.heroText {
+  top: 270px;
+  font-size: var(--font-size-mini);
+  font-family: var(--font-source-serif-4);
+  width: 568px;
+  height: 35px;
+}
+.heroSection {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 0 0 300px 0;
+  background-color: var(--color-lavender-100);
+  width: 1440px;
+  height: 540px;
+  overflow: hidden;
+  text-align: left;
+  font-size: 35px;
+  color: var(--text);
+  font-family: var(--font-ubuntu);
+}
+.cancelIcon,
+.cancelIcon1 {
+  position: absolute;
+  top: 108px;
+  left: 0;
+  width: 30px;
+  height: 30px;
+  object-fit: cover;
+}
+.cancelIcon1 {
+  top: 188px;
+}
+.cancelIcon2,
+.cancelIcon3,
+.cancelIcon4,
+.cancelIcon5,
+.cancelIcon6 {
+  position: absolute;
+  top: 284px;
+  left: 0;
+  width: 30px;
+  height: 30px;
+  object-fit: cover;
+}
+.cancelIcon3,
+.cancelIcon4,
+.cancelIcon5,
+.cancelIcon6 {
+  top: 362px;
+}
+.cancelIcon4,
+.cancelIcon5,
+.cancelIcon6 {
+  top: 442px;
+}
+.cancelIcon5,
+.cancelIcon6 {
+  top: 533px;
+}
+.cancelIcon6 {
+  top: 620px;
+}
+.dont {
+  position: absolute;
+  top: 24px;
+  left: 110px;
+  font-size: var(--font-size-13xl);
+  display: inline-block;
+  font-family: var(--font-ubuntu);
+  color: #e65050;
+  width: 84px;
+  height: 37px;
+}
+.heroText1,
+.heroText2,
+.heroText3,
+.heroText4,
+.heroText5,
+.heroText6,
+.heroText7 {
+  position: absolute;
+  top: 110px;
+  left: 55px;
+  display: inline-block;
+  width: 224px;
+  height: 30px;
+}
+.heroText2,
+.heroText3,
+.heroText4,
+.heroText5,
+.heroText6,
+.heroText7 {
+  top: 188px;
+}
+.heroText3,
+.heroText4,
+.heroText5,
+.heroText6,
+.heroText7 {
+  top: 284px;
+}
+.heroText4,
+.heroText5,
+.heroText6,
+.heroText7 {
+  top: 362px;
+}
+.heroText5,
+.heroText6,
+.heroText7 {
+  top: 442px;
+}
+.heroText6,
+.heroText7 {
+  top: 533px;
+}
+.heroText7 {
+  top: 620px;
+}
+.leftPortion {
+  position: absolute;
+  top: 22px;
+  left: 330px;
+  width: 304px;
+  height: 698px;
+  overflow: hidden;
+}
+.checkIcon,
+.checkIcon1,
+.checkIcon2 {
+  position: absolute;
+  top: 108px;
+  left: 2px;
+  width: 30px;
+  height: 30px;
+  object-fit: cover;
+}
+.checkIcon1,
+.checkIcon2 {
+  top: 188px;
+}
+.checkIcon2 {
+  top: 284px;
+}
+.checkIcon3 {
+  position: absolute;
+  top: 362px;
+}
+.checkIcon3,
+.checkIcon4,
+.checkIcon5 {
+  left: 2px;
+  width: 30px;
+  height: 30px;
+  object-fit: cover;
+}
+.checkIcon4 {
+  position: absolute;
+  top: 442px;
+}
+.checkIcon5 {
+  top: 533px;
+}
+.checkIcon5,
+.checkIcon6,
+.do {
+  position: absolute;
+}
+.checkIcon6 {
+  top: 619px;
+  left: 2px;
+  width: 30px;
+  height: 30px;
+  object-fit: cover;
+}
+.do {
+  top: 24px;
+  left: 126px;
+  font-size: var(--font-size-13xl);
+  display: inline-block;
+  font-family: var(--font-ubuntu);
+  color: #50e65f;
+  width: 53px;
+  height: 37px;
+}
+.leftSectionText3,
+.leftSectionText4 {
+  position: absolute;
+  top: 94px;
+  left: 42px;
+  font-weight: 600;
+  display: inline-block;
+  width: 274px;
+  height: 58px;
+}
+.leftSectionText4 {
+  top: 519px;
+  left: 46px;
+}
+.leftSectionText5,
+.leftSectionText6,
+.leftSectionText7,
+.leftSectionText8,
+.leftSectionText9 {
+  position: absolute;
+  top: 605px;
+  left: 42px;
+  font-weight: 600;
+  display: inline-block;
+  width: 274px;
+  height: 58px;
+}
+.leftSectionText6,
+.leftSectionText7,
+.leftSectionText8,
+.leftSectionText9 {
+  top: 428px;
+}
+.leftSectionText7,
+.leftSectionText8,
+.leftSectionText9 {
+  top: 261px;
+  left: 46px;
+}
+.leftSectionText8,
+.leftSectionText9 {
+  top: 348px;
+  left: 42px;
+}
+.leftSectionText9 {
+  top: 174px;
+}
+.rightPortion,
+.section4Left {
+  position: absolute;
+  top: 22px;
+  left: -2px;
+  width: 304px;
+  height: 698px;
+  overflow: hidden;
+}
+.section4Left {
+  top: 97px;
+  left: 70px;
+  width: 634px;
+  height: 712px;
+}
+.fightVirusConceptDoctorNurIcon {
+  position: absolute;
+  top: 49px;
+  left: 0;
+  width: 634px;
+  height: 614px;
+  object-fit: cover;
+}
+.section4Right {
+  position: absolute;
+  top: 97px;
+  left: 736px;
+  width: 634px;
+  height: 712px;
+  overflow: hidden;
+}
+.mainHeader1 {
+  position: absolute;
+  top: 55px;
+  left: 534px;
+  font-size: var(--font-size-13xl);
+  display: inline-block;
+  font-family: var(--font-ubuntu);
+  color: var(--color-blueviolet);
+  width: 372px;
+  height: 37px;
+}
+.section4 {
+  position: absolute;
+  top: 3489px;
+  left: -1px;
+  width: 1440px;
+  height: 850px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-3xl);
+  color: var(--text);
+  font-family: var(--font-source-serif-4);
+}
+.mainHeader2,
+.mainHeader3 {
+  position: absolute;
+  display: inline-block;
+  height: 37px;
+}
+.mainHeader2 {
+  top: 55px;
+  left: 639px;
+  font-size: var(--font-size-13xl);
+  color: var(--color-blueviolet);
+  width: 161px;
+}
+.mainHeader3 {
+  top: 35px;
+  left: 209px;
+  width: 191px;
+}
+.feverParent {
+  position: absolute;
+  top: 192px;
+  left: 206px;
+  border-radius: var(--br-31xl) 0 0 var(--br-31xl);
+  background-color: var(--color-white);
+  width: 513px;
+  height: 107px;
+  overflow: hidden;
+}
+.headacheIcon {
+  position: absolute;
+  top: 14px;
+  left: 41px;
+  width: 80px;
+  height: 80px;
+  object-fit: cover;
+}
+.mainHeader4 {
+  position: absolute;
+  top: 37px;
+  left: 202px;
+  display: inline-block;
+  width: 177px;
+  height: 37px;
+}
+.headacheParent {
+  position: absolute;
+  top: 328px;
+  left: 719px;
+  border-radius: 0 var(--br-31xl) var(--br-31xl) 0;
+  background-color: var(--color-white);
+  width: 514px;
+  height: 107px;
+  overflow: hidden;
+}
+.sneezingIcon {
+  position: absolute;
+  top: 14px;
+  left: 21px;
+  width: 80px;
+  height: 80px;
+  object-fit: cover;
+}
+.mainHeader5 {
+  position: absolute;
+  top: 37px;
+  left: 247px;
+  display: inline-block;
+  width: 116px;
+  height: 37px;
+}
+.sneezingParent {
+  position: absolute;
+  top: 475px;
+  left: 206px;
+  border-radius: var(--br-31xl) 0 0 var(--br-31xl);
+  background-color: var(--color-white);
+  width: 513px;
+  height: 107px;
+  overflow: hidden;
+}
+.mainHeader6 {
+  position: absolute;
+  top: 37px;
+  left: 201px;
+  display: inline-block;
+  width: 179px;
+  height: 37px;
+}
+.vomitingParent {
+  position: absolute;
+  top: 609px;
+  left: 719px;
+  border-radius: 0 var(--br-31xl) var(--br-31xl) 0;
+  background-color: var(--color-white);
+  width: 514px;
+  height: 107px;
+  overflow: hidden;
+}
+.mainHeader7 {
+  position: absolute;
+  top: 37px;
+  left: 132px;
+  display: inline-block;
+  width: 346px;
+  height: 37px;
+}
+.lungsParent {
+  position: absolute;
+  top: 743px;
+  left: 206px;
+  border-radius: var(--br-31xl) 0 0 var(--br-31xl);
+  background-color: var(--color-white);
+  width: 513px;
+  height: 107px;
+  overflow: hidden;
+}
+.frameChild {
+  position: absolute;
+  top: 128.67px;
+  left: 706.17px;
+  width: 26.67px;
+  height: 787.33px;
+}
+.section2Button3 {
+  position: absolute;
+  top: 903px;
+  left: 586px;
+}
+.mainHeaderParent {
+  position: absolute;
+  top: 4339px;
+  left: 1px;
+  background-color: var(--color-lavender-100);
+  width: 1439px;
+  height: 993px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-17xl);
+  color: var(--text);
+  font-family: var(--font-ubuntu);
+}
+.footerText {
+  position: absolute;
+  top: 15px;
+  left: 516px;
+  display: inline-block;
+  width: 407px;
+  height: 27px;
+}
+.footer {
+  position: absolute;
+  top: 5965px;
+  left: 0;
+  background-color: var(--text);
+  width: 1440px;
+  height: 56px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: #7f8086;
+  font-family: var(--font-source-serif-4);
+}
+.backImgIcon {
+  position: absolute;
+  top: 5397px;
+  left: 148px;
+  width: 1143px;
+  height: 528px;
+  object-fit: cover;
+}
+.name {
+  border: 0;
+  background-color: transparent;
+  top: 68px;
+}
+.mail,
+.name,
+.textarea {
+  position: absolute;
+  left: 31px;
+}
+.mail {
+  border: 0;
+  background-color: transparent;
+  top: 148px;
+}
+.textarea {
+  top: 228px;
+}
+.contactButton,
+.contactForm {
+  position: absolute;
+  top: 394px;
+  left: 31px;
+}
+.contactForm {
+  top: 87px;
+  left: 206px;
+  border-radius: 40px;
+  background-color: rgba(255, 255, 255, 0.5);
+  width: 393px;
+  height: 502px;
+  overflow: hidden;
+}
+.contactHeader {
+  position: absolute;
+  top: 17px;
+  left: 656px;
+  display: inline-block;
+  width: 126px;
+  height: 37px;
+}
+.section5 {
+  position: absolute;
+  top: 5332px;
+  left: 1px;
+  background-color: rgba(81, 80, 80, 0.37);
+  width: 1439px;
+  height: 633px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-13xl);
+  color: var(--color-blueviolet);
+  font-family: var(--font-ubuntu);
+}
+.covidDesktop {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 6021px;
+  overflow: hidden;
+}
+section2Button3:hover{
+  background-color: blueviolet;
+}
