@@ -13,7 +13,7 @@ const CovidDesktop = () => {
           alt=""
           src="/hospital-bed@2x.png"
         />
-        <div className={styles.symptoms}><a href="#section-2">Symptoms</a> </div>
+        <div className={styles.symptoms}>Symptoms</div>
         <div className={styles.protection}>Protection</div>
         <div className={styles.security}>Security</div>
         <div className={styles.treatment}>Treatment</div>
@@ -210,13 +210,13 @@ const CovidDesktop = () => {
         <b className={styles.mainHeader}>Coronavirus Statistics</b>
       </section>
       <header className={styles.heroSection} id="hero-section">
-        <a className={styles.logo} href="/">Covid.</a>
+        <a className={styles.logo} href="/">CoronaVirus.</a>
         <Button
           className={styles.heroButton}
           sx={{ width: 266 }}
           variant="contained"
           color="primary"
-        >
+        href="#section-3">
           How To Prevent
         </Button>
         <nav className={styles.nav} id="navbar" >
