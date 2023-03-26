@@ -52,7 +52,7 @@ const CovidDesktop = () => {
                 </p>
               </div>
               <b className={styles.leftSectionHeader}>
-                How To Prevent CoronaVirus ?
+                How To Prevent CoronaVirus?
               </b>
             </div>
           </div>
@@ -188,7 +188,7 @@ const CovidDesktop = () => {
               </li>
             </ul>
           </div>
-          <b className={styles.leftSectionHeader2}>What Is Coronavirus ?</b>
+          <b className={styles.leftSectionHeader2}>What Is Coronavirus?</b>
         </div>
         <div className={styles.upRightSection}>
           <img

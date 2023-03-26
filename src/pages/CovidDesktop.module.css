@@ -44,7 +44,7 @@
 }
 .section2Button {
   position: absolute;
-  top: 525px;
+  top: 559px;
   left: 0;
 }
 .avoidTouchingYour {
@@ -71,7 +71,7 @@
   font-size: var(--font-size-13xl);
   font-family: var(--font-ubuntu);
   color: var(--color-blueviolet);
-  width: 465px;
+  width: 462px;
   height: 37px;
 }
 .downRightSection,
@@ -465,7 +465,7 @@
 .section2 {
   position: absolute;
   top: 540px;
-  left: 0;
+  left: 0px;
   width: 100%;
   height: 1770px;
   overflow: hidden;
@@ -477,7 +477,7 @@
 .heroButton,
 .logo {
   position: absolute;
-  left: 150px;
+  left: 130px;
 }
 .logo {
   text-decoration: none;
@@ -576,7 +576,7 @@
 .heroStay,
 .heroText {
   position: absolute;
-  left: 150px;
+  left: 130px;
   display: inline-block;
 }
 .heroCovid {
@@ -597,17 +597,16 @@
 .heroSection {
   position: absolute;
   top: 0;
-  left: 0;
+  left: 38px;
   border-radius: 0 0 300px 0;
   background-color: var(--color-lavender-100);
-  width: 100%;
+  width: 1440px;
   height: 540px;
   overflow: hidden;
   text-align: left;
   font-size: 35px;
   color: var(--text);
   font-family: var(--font-ubuntu);
-  padding-left: 35px;
 }
 .cancelIcon,
 .cancelIcon1 {
@@ -979,7 +978,7 @@
   top: 37px;
   left: 132px;
   display: inline-block;
-  width: 356px;
+  width: 346px;
   height: 37px;
 }
 .lungsParent {
@@ -1009,7 +1008,7 @@
   top: 4339px;
   left: 1px;
   background-color: var(--color-lavender-100);
-  width: 1439px;
+  width: 100%;
   height: 993px;
   overflow: hidden;
   text-align: left;
@@ -1093,7 +1092,7 @@
   top: 5332px;
   left: 1px;
   background-color: rgba(81, 80, 80, 0.37);
-  width: 1439px;
+  width: 100%;
   height: 633px;
   overflow: hidden;
   text-align: left;
@@ -1107,7 +1106,4 @@
   width: 100%;
   height: 6021px;
   overflow: hidden;
-}
-section2Button3:hover{
-  background-color: blueviolet;
 }
